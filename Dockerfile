@@ -1,1 +1,1 @@
-FROM rabbitmq:3.7.3-management
+FROM luiscoms/openshift-rabbitmq:3.6.5-management
